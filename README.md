@@ -20,7 +20,7 @@ Rentlify is a **feature-rich rental platform** built with the **MERN stack**, de
 - React.js
 - Redux Toolkit for state management
 - React Router
-- Tailwind CSS.
+- Tailwind CSS 
 
 ### **Backend:**
 - Node.js & Express.js
@@ -157,5 +157,4 @@ We welcome contributions! Feel free to fork the repository, submit pull requests
 
 ## 📞 Contact
 For support or collaboration, reach out at **mdsamaratib@email.com**
-
 
