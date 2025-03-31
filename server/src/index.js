@@ -10,5 +10,5 @@ dbConnnect()
     });
   })
   .catch((error) => {
-    console.log("db connection error", error);
+    console.log("db connection error found", error);
   });

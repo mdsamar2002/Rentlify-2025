@@ -12,6 +12,7 @@ import Host from "./pages/host/Host";
 import Helpcenter from "./pages/helpcenter/Helpcenter";
 import Wishlist from "./pages/wishlist/Wishlist";
 import Report from "./pages/report/Report";
+import Footer from "./components/common/Footer";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
         <Route path="/wishlist" element={<Wishlist />} />
         <Route path="/report" element={<Report />} />
       </Routes>
+      <Footer/>
     </>
   );
 }

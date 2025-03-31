@@ -1,6 +1,7 @@
-import React from "react";
+import React, { useState } from "react";
 import { NavLink } from "react-router";
 const Menubar = () => {
+  useState(false)
   return (
     <div>
       <nav className="flex flex-col justify-start shadow-lg rounded-xl  md:min-w-56 min-w-44 gap-5 md:p-5 p-4 bg-slate-200">
